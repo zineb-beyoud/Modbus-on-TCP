@@ -31,6 +31,15 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="MBMESN_SlavePDU.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MBMESN_SlavePDU.h" />
+		<Unit filename="MBMESN_TCP.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MBMESN_TCP.h" />
+		<Unit filename="MBMESN_errorstatus.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
